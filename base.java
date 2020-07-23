@@ -15,6 +15,7 @@ public class base {
 		File f=new File("src");
 		File fs=new File(f,"ApiDemos-debug.apk");
 		
+		//adding a commne t above desiredcapabilities
 		DesiredCapabilities cap=new DesiredCapabilities();
 		//New comment added in line X
 		cap1.setCapability(MobileCapabilityType.DEVICE_NAME, "PixelAndroid9");
