@@ -14,6 +14,8 @@ public class base {
 		// TODO Auto-generated method stub
 		File f=new File("src");
 		File fs=new File(f,"ApiDemos-debug.apk");
+		String Cadena="This is athe new";
+		String branch="fromBranch";
 		
 		//adding a commne t above desiredcapabilities
 		DesiredCapabilities cap=new DesiredCapabilities();
