@@ -16,7 +16,7 @@ public class base {
 		File fs=new File(f,"ApiDemos-debug.apk");
 		String Cadena="This is change from master";
 		String branch="fromBranch";
-		//new comment
+		//new commen
 		//adding a commne t above desiredcapabilities
 		DesiredCapabilities cap=new DesiredCapabilities();
 		//New comment added in line X
